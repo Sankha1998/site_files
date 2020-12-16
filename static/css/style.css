@@ -1,0 +1,91 @@
+body {
+  background: #2980b9;
+  background: -webkit-linear-gradient(to right, #2c3e50, #eee,#2c3e50);
+  background: linear-gradient(to right, #2c3e50, #eee,#2c3e50);
+      }
+.mysite{
+height: 100px;
+width: 100px;
+
+}
+
+.ttx{
+
+  color:#D4AF37 ;
+
+}
+.tttxx{
+  color:#fff ;
+  font-size:30px;
+
+
+}
+.trx{
+  color:#fff ;
+  font-size:15px;
+}
+.mytext {
+color:#008000;
+font-family: 'Revalia', cursive;
+}
+
+
+
+.ima {
+height:200px;
+width:200px;
+border-radius: 50%;
+border:red solid 2px;
+
+}
+.imma{
+
+  height: 300px;
+  width: 500px;
+}
+/* Style all font awesome icons */
+.fa {
+ padding: 20px;
+ font-size: 30px;
+ width: 50px;
+ text-align: center;
+ text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+ opacity: 0.7;
+}
+
+.contactform {
+height: 350px;
+width: 300px;
+border: solid 5px;
+font-size: 20px;
+border-color: #008000;
+font-style: italic;
+font-family: cursive;
+border-radius: 10px;
+
+}
+
+textarea { resize:none;
+
+width: 100%;
+}
+
+
+footer{
+background: #0f0c29;
+background: -webkit-linear-gradient(to right, ##9CECFB, #302b63,#302b63);
+background: linear-gradient(to right, ##9CECFB, #302b63, #302b63);
+}
+
+.whoishe{
+background: #43C6AC;
+background: -webkit-linear-gradient(to right, #191654, #4CA1AF#302b63);
+background: linear-gradient(to right, #191654,  #4CA1AF,#302b63);
+
+padding: 20px;
+
+}
