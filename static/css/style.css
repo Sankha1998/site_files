@@ -81,6 +81,7 @@ background: -webkit-linear-gradient(to right, ##9CECFB, #302b63,#302b63);
 background: linear-gradient(to right, ##9CECFB, #302b63, #302b63);
 }
 
+
 .whoishe{
 background: #43C6AC;
 background: -webkit-linear-gradient(to right, #191654, #4CA1AF#302b63);
@@ -88,4 +89,11 @@ background: linear-gradient(to right, #191654,  #4CA1AF,#302b63);
 
 padding: 20px;
 
+}
+
+.cards{
+padding: 10px;
+height: 15rem;
+width: 100rem;
+-webkit-overflow-scrolling: touch;
 }
