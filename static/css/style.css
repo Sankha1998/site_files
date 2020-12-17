@@ -1,7 +1,7 @@
 body {
-  background: #2980b9;
-  background: -webkit-linear-gradient(to right, #2c3e50, #eee,#2c3e50);
-  background: linear-gradient(to right, #2c3e50, #eee,#2c3e50);
+  background: #A1FFCE;
+  background: -webkit-linear-gradient(to right, #FAFFD1, #A1FFCE);
+  background: linear-gradient(to right, #FAFFD1, #A1FFCE);
       }
 .mysite{
 height: 100px;
@@ -11,7 +11,8 @@ width: 100px;
 
 .ttx{
 
-  color:#D4AF37 ;
+  color:#008000;
+  font-family: 'Revalia', cursive;
 
 }
 .tttxx{
@@ -21,7 +22,7 @@ width: 100px;
 
 }
 .trx{
-  color:#fff ;
+  color:#25472e;
   font-size:15px;
 }
 .mytext {
@@ -86,14 +87,14 @@ background: linear-gradient(to right, ##9CECFB, #302b63, #302b63);
 background: #43C6AC;
 background: -webkit-linear-gradient(to right, #191654, #4CA1AF#302b63);
 background: linear-gradient(to right, #191654,  #4CA1AF,#302b63);
-
 padding: 20px;
 
 }
 
-.cards{
-padding: 10px;
-height: 15rem;
-width: 100rem;
--webkit-overflow-scrolling: touch;
+
+
+.bgsection{
+background: #ED4264;
+background: -webkit-linear-gradient(to right, #FFEDBC, #ED4264,#FFEDBC);
+background: linear-gradient(to right, #FFEDBC, #ED4264,#FFEDBC);
 }
